@@ -1,0 +1,8 @@
+openai>=1.0.0
+google-auth>=2.30.0
+google-auth-oauthlib>=1.2.0
+google-api-python-client>=2.138.0
+requests>=2.32.3
+ffmpeg-python>=0.2.0
+PyYAML>=6.0.2
+python-dotenv>=1.0.1
